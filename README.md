@@ -1,4 +1,4 @@
-# pycs4001---Class-Project-2---SpaceTitanic
+# Kaggle attempt: SpaceTitanic
 My 1st Kaggle attempt: Space Titanic 
 
 
